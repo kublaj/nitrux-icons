@@ -35,7 +35,7 @@ When reporting missing icons make sure to follow these steps so we can resolve i
 3. Open it and locate the application that's missing the icon. Tap it and select *Copy to Clipboard*.
 4. Then depending on your launcher get to the **activities** list. *(Nova users simply long-press an empty space and then tap *Shortcuts*>*Activities*)*.
 5. Locate the app on the activities list and take a screenshot of the activities related to that app. *(Nova users simply locate the app and tap on it, then take the screenshot)*.
-6. Upload the and get the direct link to the image.
+6. Upload it and get the direct link to the image.
 7. Open an new issue at this repo and add the prefix in the title, then paste the package name and the direct link to the screenshot with the list of activities.
 
 
