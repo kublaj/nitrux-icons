@@ -36,3 +36,11 @@ When reporting missing icons make sure to follow these steps so we can resolve i
 5. Locate the app on the activities list and take a screenshot of the activities related to that app. *(Nova users simply locate the app and tap on it, then take the screenshot)*.
 6. Upload the and get the direct link to the image.
 7. Open an new issue at this repo and add the tag in the title, then paste the package name and the direct link to the screenshot with the list of activities.
+
+
+Disclaimer
+==========
+
+* New issues (starting from November 6th 2014) that do not meet the criteria above will not be fixed.
+* Issues with paid Nitrux bundles will not be discussed here, you can contact us at our mail.
+* You are allowed to open issues about licensing the icons for inclusion in your distribution (if your intention is to include them in a commercial end-product) or porting them to a non-supported platform.
