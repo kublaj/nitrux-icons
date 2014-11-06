@@ -14,8 +14,8 @@ Download
 
 Icons are available to download for GTK based environments (Gnome, Cinnamon, Mate, XFCE, LXDE), KDE (Plasma, Plasma 5) and Android at the [Nitrux Store](http://nitrux.in/store).
 
-Reporting issues
-================
+Reporting missing icons
+=======================
 
 When reporting missing icons make sure to follow these steps so we can resolve it faster:
 
