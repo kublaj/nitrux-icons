@@ -12,7 +12,7 @@ Icons are licensed under the [Creative Commons Attribution-NonCommercial-NoDeriv
 Download
 ========
 
-Icons are available to download for GTK based environments (Gnome, Cinnamon, Mate, XFCE, LXDE), KDE (Plasma, Plasma 5 and Android at the [Nitrux Store](http://nitrux.in/store).
+Icons are available to download for GTK based environments (Gnome, Cinnamon, Mate, XFCE, LXDE), KDE (Plasma, Plasma 5) and Android at the [Nitrux Store](http://nitrux.in/store).
 
 Reporting issues
 ================
