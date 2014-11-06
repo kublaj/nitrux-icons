@@ -44,4 +44,4 @@ Disclaimer
 * New issues (starting from November 6th 2014) that do not meet the criteria above will not be fixed.
 * Issues with paid Nitrux bundles will not be discussed here, you can contact us at our mail.
 * You are allowed to open issues about licensing the icons for inclusion in your distribution (if your intention is to include them in a commercial end-product) or porting them to a non-supported platform.
-* Issues that have missing information and are requested for it and see no activity will be closed within 1 week after the request is done.
+* Issues that are missing information and are requested for it and see no activity will be labeled as *expiring* and closed within 1 week after the request is done.
