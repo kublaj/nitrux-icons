@@ -32,7 +32,7 @@ When reporting missing icons make sure to follow these steps so we can resolve t
 1. If you want to report an Android icon use the following title prefix (without the quotes: "[Android] App_name" - that way we can tag them appropriately.
 2. Download [Package Name Viewer](https://play.google.com/store/apps/details?id=com.gijoon.pkgnameviewer) - this application will allow you to see the name of the package that provides any given application your device.
 3. Open it and locate the application that's missing the icon. Tap it and select *Copy to Clipboard*.
-4. Then dependeing on your launcher get to the Activities list. *(Nova users simply long-press an empty space and then tap *Shortcuts*>*Activities*)*.
+4. Then depending on your launcher get to the **Activities** list. *(Nova users simply long-press an empty space and then tap *Shortcuts*>*Activities*)*.
 5. Locate the app on the activities list and take a screenshot of the activities related to that app. *(Nova users simply locate the app and tap on it, then take the screenshot)*.
 6. Upload the and get the direct link to the image.
 7. Open an new issue at this repo and add the tag in the title, then paste the package name and the direct link to the screenshot with list of activities.
