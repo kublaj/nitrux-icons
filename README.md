@@ -25,7 +25,6 @@ When reporting missing icons make sure to follow these steps so we can resolve i
 2. Use the following title prefix (without the quotes): "[Linux] App_name Desktop_environment" - that way we can tag them appropriately.
 3. Add the relevant launcher information, software in Linux DE uses files with the extention *.desktop* as launchers in menus (like Homerun, Mint menu, Gnome Shell overview, Unity, etc.), these launchers are stored in **/usr/share/applications** (there might be a */kde* folder for KDE apps) for software installed through a package or the package manager. Applications such as Google Chrome apps install their launchers here: **/home/$USER/.local/share/applications/**. Simply open these files with a text editor and copy their contents into your issue.
 4. Add a description of the software, it's very important for us to know what the software does as we are not able to install every software under the sun and test them.
-5. Open individual issues for each missing icon.
 
 Some software uses *hardcoded paths* in their launchers, as such even when we add the icon the system will not load it, you may use [Hardcoded Icon Fixer](https://github.com/Foggalong/hardcode-fixer) to resolve this problem.
 
