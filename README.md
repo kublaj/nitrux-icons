@@ -3,7 +3,7 @@ Nitrux (icon theme) - Issue tracker repository
 
 Hand crafted, infinitely scalable icons. Nitrux is a simple, clean and minimal icon set that has been consistently designed to add the finishing touch to your desktop.
 
-![Nitrux preview](http://fc03.deviantart.net/fs70/f/2013/360/b/7/nitrux_by_deviantn7k1-d4utllr.png "Hand crafted, infinitely scalable icons.")
+![Nitrux preview](http://fc05.deviantart.net/fs70/f/2015/012/7/9/nitrux_by_deviantn7k1-d4utllr.png "Hand crafted, infinitely scalable icons.")
 
 Icons are licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives International 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
